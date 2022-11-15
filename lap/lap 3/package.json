@@ -1,0 +1,22 @@
+{
+  "name": "lap-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lap3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./lap3.js localhost 3000"
+  },
+  "author": "hoang",
+  "license": "ISC",
+  "dependencies": {
+    "cat-names": "^3.1.0",
+    "cookie": "^0.5.0",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-handlebars": "^6.0.6",
+    "express-session": "^1.17.3",
+    "nodemon": "^2.0.20"
+  }
+}
